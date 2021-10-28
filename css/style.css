@@ -561,6 +561,9 @@ html{
     color:rgba(0, 0, 0, 0.6);
 
 }
+#footer .copyright{
+    decoration:none;
+}
 @keyframes modalFadeIn {
     from {
         opacity: 0;

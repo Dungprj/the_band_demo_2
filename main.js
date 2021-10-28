@@ -1,4 +1,4 @@
-let getElement_Buy_Ticket = document.querySelectorAll('.btn');
+let getElement_Buy_Ticket = document.querySelectorAll('.btn-buy-ticket');
 let getElement_modal = document.querySelector('.modal');
 let getElement_close = document.querySelector(".close-modal");
 let getElement_modalcontainer = document.querySelector(".modal-container")
